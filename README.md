@@ -12,9 +12,9 @@ Front-End :
     Figma pour le design des maquettes. 
 
 Back-End :
+
     PHP sous PDO.
     Base de Données sur PhpMyAdmin
-    MySQL pour stocker les données sur les animaux, les habitats, les utilisateurs, etc.
 
 # Installation
 
