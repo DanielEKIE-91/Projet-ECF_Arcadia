@@ -1,0 +1,176 @@
+/*SERVICES*/
+
+.pc-service {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 6542px;
+  overflow: hidden;
+  width: 1369px;
+}
+
+.pc-service .header {
+  align-items: flex-end;
+  background-color: var(--fern-green);
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 330px;
+  justify-content: flex-start;
+  min-width: 1369px;
+  padding: 0 21px;
+  width: auto;
+}
+
+.pc-service .overlap-group4 {
+  margin-left: 55px;
+}
+
+.pc-service .accueil {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 125px;
+}
+
+.pc-service .overlap-group {
+  margin-left: 50px;
+}
+
+.pc-service .place-1 {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 152px;
+}
+
+.pc-service .title {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 18.0px;
+  margin-top: 35px;
+  min-height: 32px;
+  text-align: center;
+  white-space: nowrap;
+  width: 649px;
+}
+
+.pc-service .bienvenue-dans-les-s {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1px;
+  margin-top: 111px;
+  min-height: 232px;
+  text-align: center;
+  width: 1325px;
+}
+
+.pc-service .girafes-parc-cerza-1 {
+  height: 784px;
+  margin-top: 14px;
+  object-fit: cover;
+  width: 1369px;
+}
+
+.pc-service .restaurant {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 48.0px;
+  margin-top: 353px;
+  min-height: 116px;
+  text-align: center;
+  width: 649px;
+}
+
+.pc-service .restaurant-1 {
+  height: 648px;
+  margin-top: 9px;
+  object-fit: cover;
+  width: 1369px;
+}
+
+.pc-service .surname {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 32px;
+  min-height: 232px;
+  text-align: center;
+  width: 1369px;
+}
+
+.pc-service .visite-des-habitats-avec-un-guide {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 28.0px;
+  margin-top: 421px;
+  min-height: 238px;
+  text-align: center;
+  width: 1197px;
+}
+
+.pc-service .guide-1 {
+  height: 819px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 1369px;
+}
+
+.pc-service .la-visite-des-habita {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: 14px;
+  min-height: 232px;
+  text-align: center;
+  width: 1366px;
+}
+
+.pc-service .visite-du-zoo-en-petit-train {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 28.0px;
+  margin-top: 385px;
+  min-height: 116px;
+  text-align: center;
+  width: 1197px;
+}
+
+.pc-service .train-1 {
+  height: 757px;
+  margin-top: 40px;
+  object-fit: cover;
+  width: 1369px;
+}
+
+.pc-service .la-visite-du-zoo-arc {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 3.0px;
+  margin-top: 41px;
+  min-height: 174px;
+  text-align: center;
+  width: 1366px;
+}
+
+.pc-service .footer {
+  align-items: center;
+  background-color: var(--lunar-green);
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  gap: 550px;
+  height: 270px;
+  justify-content: flex-end;
+  margin-top: 110px;
+  min-width: 1369px;
+  padding: 5px 67.5px;
+  width: auto;
+}
