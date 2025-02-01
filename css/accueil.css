@@ -1,0 +1,188 @@
+/*ACCUEIL*/
+.accueil {
+
+    align-items: center;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    height: 2702px;
+    overflow: hidden;
+    width: 1369px;
+  }
+  
+  .accueil .overlap-group6 {
+    height: 854px;
+    margin-left: 2.0px;
+    position: relative;
+    width: 1371px;
+  }
+  
+  .accueil .img_20210529_111027-scaled-1 {
+    height: 524px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 330px;
+    width: 720px;
+  }
+  
+  .accueil .overlap-group5 {
+    height: 854px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1371px;
+  }
+  
+  .accueil .rectangle-2 {
+    background-color: #8fb78e;
+    height: 524px;
+    left: 720px;
+    position: absolute;
+    top: 330px;
+    width: 651px;
+  }
+  
+  .accueil .bienvenue-dans-le-pa {
+    left: 725px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 329px;
+    width: 644px;
+  }
+  
+  .accueil .header {
+    align-items: flex-end;
+    background-color: #417840;
+    display: flex;
+    flex-direction: row;
+    height: 330px;
+    justify-content: flex-start;
+    left: 0;
+    min-width: 1369px;
+    padding: 0 21px;
+    position: absolute;
+    top: 0;
+    width: auto;
+  }
+  
+  .accueil.overlap-group1 {
+    align-items: flex-start;
+    background-color: #cfe2cf;
+    display: flex;
+    height: 89px;
+    justify-content: flex-end;
+    margin-left: 55px;
+    min-width: 175px;
+    padding: 21px 21.8px;
+  }
+  
+  .accueil .accueil2 {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 70px;
+    text-align: center;
+    width: 125px;
+  }
+  
+  .accueil .overlap-group {
+    height: 89px;
+    margin-left: 50px;
+    position: relative;
+    width: 175px;
+  }
+  
+  .accueil .place-1 {
+    left: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 21px;
+    width: 152px;
+  }
+  
+  .accueil .Images {
+    align-items: center;
+    align-self: flex-end;
+    display: flex;
+    margin-right: 7px;
+    margin-top: 107px;
+    min-width: 1336px;
+  }
+  
+  .accueil .restaurant-1 {
+    height: 330px;
+    object-fit: cover;
+    width: 414px;
+  }
+  
+  .accueil .jungle-1 {
+    height: 330px;
+    margin-left: 44px;
+    margin-top: 1.0px;
+    object-fit: cover;
+    width: 430px;
+  }
+  
+  .accueil .toucan-jungle-1 {
+    height: 330px;
+    margin-left: 58px;
+    margin-top: 1.0px;
+    object-fit: cover;
+    width: 390px;
+  }
+  .pc-accueil .formulaire {
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .accueil .pseudo {
+    width: 100%;
+    height: 1.3em;
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+  }
+  
+
+  .accueil .commentaire {
+    width: 100%;
+    height:  1.3em;
+    display: flex;
+    flex-direction: column;
+    font-size: 50px;
+  }
+  
+  .accueil .button {
+    background-color: #8fb78e;
+    color: black;
+    border: black;
+    text-align: center;
+    display: inline-block;
+    margin: 2px;
+    cursor: pointer;
+    font-size: 30px;
+  }
+  
+  
+  .accueil .footer {
+    align-items: center;
+    background-color: #2e4b2e;
+    display: flex;
+    flex-direction: row;
+    flex-shrink: 1;
+    gap: 550px;
+    height: 300px;
+    justify-content: flex-end;
+    margin-top: 50%;
+    min-width: 1389px;
+    padding: 60px 67.5px;
+    width: auto;
+  }
+  
+  

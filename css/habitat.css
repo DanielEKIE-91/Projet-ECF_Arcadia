@@ -1,0 +1,795 @@
+/*HABITATS*/
+
+.habitat {
+  background-color: var(--white);
+  height: 15443px;
+  overflow: hidden;
+  position: relative;
+  width: 1369px;
+}
+
+.habitat .footer {
+  align-items: center;
+  background-color: var(--lunar-green);
+  display: flex;
+  flex-direction: row;
+  gap: 550px;
+  height: 270px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 1369px;
+  padding: 66px 67.5px;
+  position: absolute;
+  top: 15173px;
+  width: auto;
+}
+
+.habitat .header {
+  align-items: flex-end;
+  background-color: var(--fern-green);
+  display: flex;
+  flex-direction: row;
+  height: 330px;
+  justify-content: flex-start;
+  left: 0;
+  min-width: 1369px;
+  padding: 0 21px;
+  position: absolute;
+  top: 0;
+  width: auto;
+}
+
+.habitat .overlap-group4 {
+  height: 89px;
+  margin-left: 55px;
+  position: relative;
+  width: 175px;
+}
+
+.habitat .accueil {
+  left: 28px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 125px;
+}
+
+.habitat .overlap-group {
+  height: 89px;
+  margin-left: 50px;
+  position: relative;
+  width: 175px;
+}
+
+.habitat .place-1 {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  width: 152px;
+}
+
+.habitat .title {
+  left: 388px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 381px;
+  width: 649px;
+}
+
+.habitat .bienvenue-dans-les-h {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 508px;
+  width: 1296px;
+}
+
+.habitat .jungle-container {
+  height: 473px;
+  top: 807px;
+  width: 430px;
+}
+
+.habitat .habitat-jungle {
+  left: 0;
+  width: 430px;
+}
+
+.habitat .jungle-1 {
+  height: 406px;
+  object-fit: cover;
+  top: 67px;
+  width: 430px;
+}
+
+.habitat .marais-container {
+  height: 473px;
+  left: 513px;
+  position: absolute;
+  top: 807px;
+  width: 452px;
+}
+
+.habitat .habitat-marais {
+  left: 0;
+  width: 452px;
+}
+
+.habitat .marais-1 {
+  height: 406px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 422px;
+}
+
+.habitat .savane-container {
+  height: 473px;
+  left: 965px;
+  position: absolute;
+  top: 807px;
+  width: 401px;
+}
+
+.habitat .habitat-savane {
+  left: 34px;
+  width: 367px;
+}
+
+.habitat .savane-1 {
+  height: 406px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 67px;
+  width: 401px;
+}
+
+.habitat .habitat-jungle-1 {
+  left: 414px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1403px;
+  width: 649px;
+}
+
+.habitat .jungle-2 {
+  height: 793px;
+  object-fit: cover;
+  top: 1546px;
+  width: 1369px;
+}
+
+.habitat .lhabitat-jungle-du {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 2364px;
+  width: 1307px;
+}
+
+.habitat .overlap-group25 {
+  height: 148px;
+  left: 87px;
+  position: absolute;
+  top: 2685px;
+  width: 1103px;
+}
+
+.habitat .liste-dhabitat-jungle {
+  width: 537px;
+}
+
+.habitat .toucan {
+  cursor: pointer;
+  left: 521px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 197px;
+}
+
+.habitat .singe {
+  cursor: pointer;
+  left: 712px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 197px;
+}
+
+.habitat .jaguar {
+  cursor: pointer;
+  left: 906px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 197px;
+}
+
+.habitat .toucan-jungle-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 2923px;
+  width: 759px;
+}
+
+.habitat .overlap-group9 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 808px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 2925px;
+}
+
+.habitat .prnom {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 223px;
+  width: 535px;
+}
+
+.habitat .name {
+  left: 815px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 3192px;
+  white-space: nowrap;
+  width: 567px;
+}
+
+.habitat .overlap-group14 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 808px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 3264px;
+}
+
+.habitat .etat-de-lanimal {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 252px;
+  width: 535px;
+}
+
+.habitat .singe-jungle-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 3925px;
+  width: 759px;
+}
+
+.habitat .overlap-group26 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 815px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 3925px;
+}
+
+.habitat .name-1 {
+  left: 815px;
+  top: 4190px;
+  width: 567px;
+}
+
+.habitat .overlap-group20 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 815px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 4264px;
+}
+
+.habitat .jaguar-jungle-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4929px;
+  width: 759px;
+}
+
+.habitat .overlap-group23 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 815px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 4929px;
+}
+
+.habitat .name-2 {
+  left: 815px;
+  top: 5194px;
+  width: 567px;
+}
+
+.habitat .overlap-group15 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 815px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 5268px;
+}
+
+.habitat .habitat-marais-1 {
+  left: 379px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 5651px;
+  width: 681px;
+}
+
+.habitat .marais-2 {
+  height: 859px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 5768px;
+  width: 1367px;
+}
+
+.habitat .lhabitat-marais-du {
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6648px;
+  width: 1271px;
+}
+
+.habitat .overlap-group12 {
+  height: 148px;
+  left: 79px;
+  position: absolute;
+  top: 7016px;
+  width: 707px;
+}
+
+.habitat .liste-dhabitat-marais {
+  width: 526px;
+}
+
+.habitat .tortue {
+  cursor: pointer;
+  left: 510px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 197px;
+}
+
+.habitat .tortue-marais-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 7300px;
+  width: 759px;
+}
+
+.habitat .overlap-group27 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 813px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 7300px;
+}
+
+.habitat .name-3 {
+  left: 813px;
+  top: 7573px;
+  width: 567px;
+}
+
+.habitat .overlap-group7 {
+  align-items: flex-start;
+  background-color: var(--fern-green);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 813px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 7639px;
+}
+
+.habitat .grenouille-marais-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 8287px;
+  width: 759px;
+}
+
+.habitat .overlap-group10 {
+  align-items: flex-start;
+  background-color: var(--fruit-salad);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 830px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 8287px;
+}
+
+.habitat .name-4 {
+  left: 830px;
+  top: 8556px;
+  width: 567px;
+}
+
+.habitat .overlap-group13 {
+  align-items: flex-start;
+  background-color: var(--fruit-salad);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 830px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 8626px;
+}
+
+.habitat .hron-marais-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 9171px;
+  width: 759px;
+}
+
+.habitat .overlap-group19 {
+  align-items: flex-start;
+  background-color: var(--fruit-salad);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 830px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 9171px;
+}
+
+.habitat .name-5 {
+  left: 839px;
+  top: 9444px;
+  width: 543px;
+}
+
+.habitat .overlap-group17 {
+  align-items: flex-start;
+  background-color: var(--fruit-salad);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 830px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 9510px;
+}
+
+.habitat .habitat-savane-1 {
+  left: 378px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10032px;
+  width: 681px;
+}
+
+.habitat .savane-2 {
+  height: 1048px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 10149px;
+  width: 1382px;
+}
+
+.habitat .lhabitat-savane-du {
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11220px;
+  width: 1278px;
+}
+
+.habitat .overlap-group16 {
+  height: 148px;
+  left: 90px;
+  position: absolute;
+  top: 11710px;
+  width: 866px;
+}
+
+.habitat .liste-dhabitat-savane {
+  width: 519px;
+}
+
+.habitat .zbre {
+  cursor: pointer;
+  left: 504px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 197px;
+}
+
+.habitat .girafe {
+  cursor: pointer;
+  left: 669px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 197px;
+}
+
+.habitat .zebre-savane-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 12034px;
+  width: 759px;
+}
+
+.habitat .overlap-group21 {
+  align-items: flex-start;
+  background-color: var(--forest-green);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 813px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 12034px;
+}
+
+.habitat .name-6 {
+  left: 837px;
+  top: 12310px;
+  width: 543px;
+}
+
+.habitat .overlap-group8 {
+  align-items: flex-start;
+  background-color: var(--forest-green);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 813px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 12373px;
+}
+
+.habitat .girafe-savane-1 {
+  height: 617px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 13103px;
+  width: 759px;
+}
+
+.habitat .overlap-group28 {
+  align-items: flex-start;
+  background-color: var(--forest-green);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 811px;
+  min-width: 567px;
+  padding: 15px;
+  position: absolute;
+  top: 13103px;
+}
+
+.habitat .name-7 {
+  left: 825px;
+  top: 13377px;
+  width: 543px;
+}
+
+.habitat .overlap-group24 {
+  align-items: flex-start;
+  background-color: var(--forest-green);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 811px;
+  min-width: 567px;
+  padding: 12px 15px;
+  position: absolute;
+  top: 13442px;
+}
+
+.habitat .elephant-savane-1 {
+  height: 619px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 14173px;
+  width: 759px;
+}
+
+.habitat .overlap-group5 {
+  align-items: flex-start;
+  background-color: var(--forest-green);
+  display: flex;
+  height: 254px;
+  justify-content: flex-end;
+  left: 811px;
+  min-width: 567px;
+  padding: 13px 15px;
+  position: absolute;
+  top: 14175px;
+}
+
+.habitat .name-8 {
+  left: 811px;
+  top: 14440px;
+  width: 543px;
+}
+
+.habitat .overlap-group6 {
+  align-items: flex-start;
+  background-color: var(--forest-green);
+  display: flex;
+  height: 278px;
+  justify-content: flex-end;
+  left: 811px;
+  min-width: 567px;
+  padding: 10px 15px;
+  position: absolute;
+  top: 14514px;
+}
+
+.habitat .grenouille {
+  cursor: pointer;
+  left: 786px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7016px;
+  width: 246px;
+}
+
+.habitat .hron {
+  cursor: pointer;
+  left: 1032px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7016px;
+  width: 197px;
+}
+
+.habitat .elphant {
+  cursor: pointer;
+  left: 956px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11710px;
+  width: 201px;
+}
+
+.habitat .habitat {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.habitat .jungle {
+  left: 0;
+  position: absolute;
+}
+
+.habitat .liste-dhabitat {
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.habitat .name-9 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+}
