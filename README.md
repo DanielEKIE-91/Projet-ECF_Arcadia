@@ -17,7 +17,7 @@ Front-End :
 Back-End :
 
     PHP sous PDO.
-    Base de Données sur PhpMyAdmin
+    Base de Données
 
 # Installation
 
